@@ -1,0 +1,63 @@
+
+p {
+    color: black;
+}
+
+a: {
+    color: blue;
+}
+
+body {
+    font-family: verdana, arial;
+    font-size: 15pt;
+    margin: 1cm;
+    padding: 0;
+    background: url("Background.png") repeat;
+}
+
+h1 {
+    font-size: 32pt;
+    margin: 2cm;
+}
+
+h2 {
+    font-size: 28pt;
+}
+
+h3 {
+    font-size: 24pt;
+}
+
+h4 {
+    font-size: 22pt;
+
+}
+
+h5 {
+    font-size: 20pt;
+}
+
+h6 {
+    font-size: 18pt;
+}
+
+img {
+    border-style: solid;
+    border-width: 3mm;
+    border-color: yellow;
+}
+
+#navigation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 250mm;
+}
+
+#info {
+    margin: 1cm;
+}
+
+#cost {
+    margin: 2cm;
+}
